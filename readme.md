@@ -5,4 +5,5 @@
   <li>Ukuran Pemusatan Data</li>
   <li>Ukuran Persebaran Data</li>
   <li>Populasi dan Sampel</li>
+  <li>Pengujian Normalitas Data</li>
 </ol>

@@ -8,10 +8,11 @@ Repository ini berisi materi tentang Matakuliah Statistika Terapan, yang diampu 
 2. [Ukuran Pemusatan Data](Ukuran_Pemusatan_Data.ipynb)
 3. [Implementasi Ukuran Pemusatan Data Menggunakan Python](Implementasi_Ukuran_Pemusatan_Data_Menggunakan_Python.ipynb)
 4. [Ukuran Persebaran Data]()
-5. [Populasi dan Sampel](Populasi_Sampel.ipynb)
-6. [Implementasi Random Sampling Menggunakan Python](Implementasi_Random_Sampling_Menggunakan_Python.ipynb)
-7. [Pengujian Normalitas Data](Uji_Normalitas.ipynb)
-8. [Konsep Dasar Uji Hipotesis](Konsep_Dasar_Uji_Hipotesis.ipynb)
+5. [Implementasi Ukuran Persebaran Data Menggunakan Python](Implementasi_Ukuran_Persebaran_Data_Menggunakan_Python.ipynb)
+6. [Populasi dan Sampel](Populasi_Sampel.ipynb)
+7. [Implementasi Random Sampling Menggunakan Python](Implementasi_Random_Sampling_Menggunakan_Python.ipynb)
+8. [Pengujian Normalitas Data](Uji_Normalitas.ipynb)
+9. [Konsep Dasar Uji Hipotesis](Konsep_Dasar_Uji_Hipotesis.ipynb)
 
 ## Cara Kontribusi
 
